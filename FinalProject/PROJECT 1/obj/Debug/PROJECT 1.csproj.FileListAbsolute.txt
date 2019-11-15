@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.exe.config
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.exe
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\bin\Debug\PROJECT 1.pdb
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT_1.Form1.resources
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT_1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.exe
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT 1.pdb
+C:\Users\Administrator\Desktop\PROJECT 1\PROJECT 1\obj\Debug\PROJECT_1.Generate.resources
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\bin\Debug\PROJECT 1.exe.config
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\bin\Debug\PROJECT 1.exe
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\bin\Debug\PROJECT 1.pdb
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT 1.csprojAssemblyReference.cache
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT_1.Form1.resources
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT_1.Generate.resources
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT_1.Properties.Resources.resources
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT 1.csproj.GenerateResource.cache
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT 1.csproj.CoreCompileInputs.cache
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT 1.exe
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT 1.pdb
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT_1.FK_Info.resources
+H:\DH\Project1\OneDrive-2019-11-01\PROJECT 1\obj\Debug\PROJECT_1.table_Info.resources
